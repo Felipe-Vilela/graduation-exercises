@@ -14,8 +14,6 @@ Compartilhar exercícios resolvidos por mim tanto na graduação como fora da me
 
 
 ## Linguagens utilizadas 👨🏻‍💻
- <img align="center" alt="Linguagem Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-
-
+ <img align="center" alt="Linguagem Python" src="https://github.com/Felipe-Vilela/graduation-exercises/assets/122842608/9ae79c37-48b7-449a-ada4-11117d4960f6" />
 
 
